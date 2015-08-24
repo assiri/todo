@@ -1,4 +1,4 @@
-# Todos
+# Todos  on Flask and Ember 2.0
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
@@ -19,10 +19,14 @@ You will need the following things properly installed on your computer.
 * change into the new directory
 * `npm install`
 * `bower install`
+* `ember build  -prod`
+* `sudo pip install flask`
+* `python  todo.py`
+
 
 ## Running / Development
 
-* `ember server`
+* `python  todo.py`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 
 ### Code Generators
